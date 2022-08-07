@@ -1,4 +1,4 @@
-#**COLORED-LINES**
+**COLORED-LINES**
 
 ***ABOUT MY PROJECT***
 <br />This project tells about a game called **Colored Lines**.
