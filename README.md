@@ -1,11 +1,11 @@
 #**COLORED-LINES**
 
-##ABOUT MY PROJECT
+***ABOUT MY PROJECT***
 <br />This project tells about a game called **Colored Lines**.
 <br />Colored Lines is a single player board game which is generally played on a N x N grid.
 <br />In this project I have created a 9 x 9 grid.
 
-##RULES OF THE GAME 
+***RULES OF THE GAME*** 
 1. Move the balls from cell to cell to group them into the lines of the same color. 
 2. However, after each of your moves the computer drops three more balls onto the board. To avoid 
 filling up the board you should gather the balls into lines of 5 or more balls. When such a line is 
@@ -18,8 +18,8 @@ game ends once the whole game board becomes filled up with balls.
 5. ***Remember*** – the more balls you remove at once the greater your score is. You are playing against 
 computer that cannot be won, so you compete against the highest score, yours or other players.
 
-##TECHNOLOGY USED TO DEVELOP THE GAME
-<br />***VISUAL STUDIO CODE***
+***TECHNOLOGY USED TO DEVELOP THE GAME***
+<br />**1.VISUAL STUDIO CODE**
 <br />Language Used to develop the game is **Python.**
 
 
