@@ -22,4 +22,6 @@ computer that cannot be won, so you compete against the highest score, yours or 
 <br />**1.VISUAL STUDIO CODE**
 <br />Language Used to develop the game is **Python.**
 
+***SAMPLE OUTPUT SCREENSHOT***
 
+![Output](https://github.com/MLakshmipraharsha07/Colored-Lines/assets/98521185/cf8649c6-aed4-4126-a684-61474c666b39)
